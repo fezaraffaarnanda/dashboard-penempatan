@@ -282,11 +282,6 @@ export default function Home() {
               <span className="stat-value">{totalLulusan}</span>
               <span className="stat-label">Total Lulusan</span>
             </div>
-            <div className="stat-divider"></div>
-            <div className="stat-item">
-              <span className="stat-value">{totalProvinsi}</span>
-              <span className="stat-label">Wilayah</span>
-            </div>
           </div>
         </div>
       </header>

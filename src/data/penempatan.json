@@ -1,0 +1,3712 @@
+[
+  {
+    "no": 1,
+    "nama": "INNAS KHOIRUN CHISAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BAGIAN UMUM INSPEKTORAT UTAMA",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 2,
+    "nama": "NAUFAL FADLI MUZAKKI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BAGIAN UMUM INSPEKTORAT UTAMA",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 3,
+    "nama": "ADINDA AYU PRAMESTHI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BIRO HUBUNGAN MASYARAKAT DAN HUKUM",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 4,
+    "nama": "ASTRI NUR INNAYAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BIRO KEUANGAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 5,
+    "nama": "ELFINA DEA ROSALITA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BIRO PERENCANAAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 6,
+    "nama": "FAUZANA AFININNAS",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BIRO PERENCANAAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 7,
+    "nama": "OKKY RIZKY SAPUTRA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BIRO PERENCANAAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 8,
+    "nama": "FARIS IQBAL MAULANA SUSANTO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BIRO SUMBER DAYA MANUSIA",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 9,
+    "nama": "GERY NASTIAR",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BIRO UMUM",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 10,
+    "nama": "ZIDAN AKBAR AL AQSHA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN ACEH SELATAN",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 11,
+    "nama": "EGI NAWWAR SUKMA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN ACEH SINGKIL",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 12,
+    "nama": "ANGGIA SARI SIREGAR",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN ACEH TENGAH",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 13,
+    "nama": "ALIFAH SUHAILA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN ACEH TENGGARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 14,
+    "nama": "REVINA SIREGAR",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN ACEH UTARA",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 15,
+    "nama": "KUNTUM KHAIRANI ASELIA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN AGAM",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 16,
+    "nama": "HERSA MAULINA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN ASMAT",
+    "provinsi": "PAPUA SELATAN"
+  },
+  {
+    "no": 17,
+    "nama": "NI KOMANG DIVA AMALIA PUTRI NANDITA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BADUNG",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 18,
+    "nama": "MUTHIA ULINNUHA PRABANDARI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BADUNG",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 19,
+    "nama": "NAUFAL RAFFIE ABIOGA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BALANGAN",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 20,
+    "nama": "SYIFA NOVDHY SALSABILA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BANGGAI KEPULAUAN",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 21,
+    "nama": "RANA ISRANAENI INHAR",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BANGGAI LAUT",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 22,
+    "nama": "KATRINA LAVENIA ELVARETTA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BANGGAI LAUT",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 23,
+    "nama": "AMELIA RAHAYU",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BANGKA",
+    "provinsi": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "no": 24,
+    "nama": "MUHAMMAD ASWAN AZIZ",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BANGKA BARAT",
+    "provinsi": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "no": 25,
+    "nama": "STENISLAUS ANGGA APRIANTO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BANGKA SELATAN",
+    "provinsi": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "no": 26,
+    "nama": "GHAFFAR ISMAIL",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BANGKA TENGAH",
+    "provinsi": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "no": 27,
+    "nama": "NI KETUT PEBRIANTINI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BANGLI",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 28,
+    "nama": "SILVI AJENG LARASATI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BANJAR",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 29,
+    "nama": "SUFI NUR SHAFIRA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BANTAENG",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 30,
+    "nama": "VIA YUANISA AULIA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BANYUASIN",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 31,
+    "nama": "NUR AMALIYATUR ROHMAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BANYUWANGI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 32,
+    "nama": "ADHA ASY SYIFA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BARITO KUALA",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 33,
+    "nama": "MUHAMMAD JULIAN FIRDAUS",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BARITO KUALA",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 34,
+    "nama": "AGNES REGITA BERLIANNI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BARITO SELATAN",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 35,
+    "nama": "MUTIARA FRISKA AMALIA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BARITO SELATAN",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 36,
+    "nama": "CAHYA VIANTI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BARITO SELATAN",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 37,
+    "nama": "RIZQUNA NAZALAL RIZAL PRIATNA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BARITO TIMUR",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 38,
+    "nama": "ANGGA FAJAR KURNIA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BARITO UTARA",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 39,
+    "nama": "DESTI FITRIANI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BARITO UTARA",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 40,
+    "nama": "ELVINA GAMAYANTI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BARRU",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 41,
+    "nama": "ALIEF RADITIA ALI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BATANG HARI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 42,
+    "nama": "HANNA SAJIDHA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BATANG HARI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 43,
+    "nama": "AKBARRULLAH YUSMAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BELITUNG",
+    "provinsi": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "no": 44,
+    "nama": "MUHAMMAD AKBAR",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BELITUNG",
+    "provinsi": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "no": 45,
+    "nama": "ANGGIE DWI NUGRAHA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BELITUNG TIMUR",
+    "provinsi": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "no": 46,
+    "nama": "NUR YUDHA JATI PRAKOSO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BENER MERIAH",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 47,
+    "nama": "AGNES ROSIHAN KRISTIANTI SILALAHI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BENGKALIS",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 48,
+    "nama": "PUTRI REHULINA DAMANIK",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BENGKAYANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 49,
+    "nama": "IFTINA IKA RAHMAWATI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BENGKAYANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 50,
+    "nama": "SINTYA RIAGUSTY DZAKIYYAH IRAWAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BENGKULU SELATAN",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": 51,
+    "nama": "ILHAM DWI KUNCORO",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BERAU",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 52,
+    "nama": "ARI MULYADI ABERSON SILALAHI SIDEBANG",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BERAU",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 53,
+    "nama": "KURNIANTY INDAH HAFSARI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BIMA",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 54,
+    "nama": "FATHIMAH AZ-ZAHRA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BINTAN",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 55,
+    "nama": "ARIEL PATAR JONATHAN SIMANJUNTAK",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BINTAN",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 56,
+    "nama": "MUHAMMAD ALFA RISXI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BLORA",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": 57,
+    "nama": "AMELIA CALISTA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BOALEMO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 58,
+    "nama": "LANDHA PRATIWI SHALEH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BOALEMO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 59,
+    "nama": "MIKHAEL GAMALIEL PADE",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BOLAANG MONGONDOW",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 60,
+    "nama": "NAILA KAMILIA HASNA SAFITRI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BOLAANG MONGONDOW",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 61,
+    "nama": "AHMAD RAMDANI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BOLAANG MONGONDOW SELATAN",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 62,
+    "nama": "AWANGGA WISENA AJI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BOLAANG MONGONDOW SELATAN",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 63,
+    "nama": "KHRISNA AJI PAMUNGKAS",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BOLAANG MONGONDOW SELATAN",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 64,
+    "nama": "VALENCIA FEBIOLA SAPUTRI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BOLAANG MONGONDOW TIMUR",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 65,
+    "nama": "EZRA ERIC SANTOSO",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BOLAANG MONGONDOW TIMUR",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 66,
+    "nama": "SADIYYAH MAHARDIKA SETYO PUTRI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BOLAANG MONGONDOW UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 67,
+    "nama": "ANSELMUS ANWAR SITANGGANG",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BOLAANG MONGONDOW UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 68,
+    "nama": "ZAHWA ZALZABILA PARHAS",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BOMBANA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 69,
+    "nama": "WAHYU WIDURI ANDOKO SAPUTRI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BOMBANA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 70,
+    "nama": "LAILA VANIA EVELYNA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BONDOWOSO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 71,
+    "nama": "SULTHON LUBIS ZIDAN KURNIAWAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BONE BOLANGO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 72,
+    "nama": "SHELA ALFIYANI AMALIA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BREBES",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": 73,
+    "nama": "ARDIAN PUTRA WARDANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BULELENG",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 74,
+    "nama": "CHARISA DYAH AYU KUSWARA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BULUKUMBA",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 75,
+    "nama": "TSABIT BINTANG HERINDRA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": 76,
+    "nama": "INSAN DIENUARI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BULUNGAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": 77,
+    "nama": "MUHAMMAD RUHUL IKHSAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BUOL",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 78,
+    "nama": "FATIMATUZZUHRA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BURU",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 79,
+    "nama": "KAMARETA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN BURU",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 80,
+    "nama": "MUHAMMAD ASFAR ASWIN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BURU SELATAN",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 81,
+    "nama": "I KADEK PURNA WIDYARTA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BUTON TENGAH",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 82,
+    "nama": "FATIMAH AZZAHRAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BUTON TENGAH",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 83,
+    "nama": "YULINDA AGRESTINA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN BUTON UTARA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 84,
+    "nama": "NISA FATHARANI HASNA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN CIAMIS",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 85,
+    "nama": "MAHIRA FACHRUNNISA LUBIS",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN DAIRI",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 86,
+    "nama": "FERDINANDUS BATA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN DEIYAI",
+    "provinsi": "PAPUA TENGAH"
+  },
+  {
+    "no": 87,
+    "nama": "ADIB SULTHON MUAMMAL",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN DEMAK",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": 88,
+    "nama": "ADIVA INTAN AULIA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN DHARMASRAYA",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 89,
+    "nama": "NICHOLAS RAHARDIAN KURNIA SANDY",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN DOMPU",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 90,
+    "nama": "TIARA PUTRI SETIA PUSPITA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN DOMPU",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 91,
+    "nama": "CICI NURHALIZA AMANAH",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN DONGGALA",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 92,
+    "nama": "INAFIANTI KLARISTANIA RILANO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN DONGGALA",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 93,
+    "nama": "ADE OCTARINA PAKPAHAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN EMPAT LAWANG",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 94,
+    "nama": "NUR AFIFAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN EMPAT LAWANG",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 95,
+    "nama": "ANDREW MARULI TUA TAMPUBOLON",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN ENDE",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 96,
+    "nama": "NI PUTU SANCITA MAHARANI ARDANA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN FAKFAK",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": 97,
+    "nama": "RIO MANUPPAK SIAHAAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN FLORES TIMUR",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 98,
+    "nama": "RIFKY MAULANA PUTRA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN GARUT",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 99,
+    "nama": "KEVIN RIZKIKA SETIAWAN",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN GAYO LUES",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 100,
+    "nama": "MARSAY FEBRIANTO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN GIANYAR",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 101,
+    "nama": "FARADILLA CHAIRIN NINDA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN GIANYAR",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 102,
+    "nama": "DEVINA SALSABIILA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 103,
+    "nama": "NAZWA THORIQUL JANNAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 104,
+    "nama": "RIA INDRIANI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 105,
+    "nama": "SEIZRA AULIA SALSABILA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 106,
+    "nama": "MUTIARA NUR TSANI HELFIANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN GORONTALO UTARA",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 107,
+    "nama": "INDI PRILISTIANA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN GROBOGAN",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": 108,
+    "nama": "YOGA PRATAMA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN GUNUNG MAS",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 109,
+    "nama": "YULISMAH",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN HALMAHERA BARAT",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 110,
+    "nama": "MARTHA MAR'ATU MUFIDA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN HALMAHERA BARAT",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 111,
+    "nama": "MARCHADHA SANTI WILDA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN HALMAHERA SELATAN",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 112,
+    "nama": "GALUH RETNO UTAMI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN HALMAHERA SELATAN",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 113,
+    "nama": "FIKRI SURAHMAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN HALMAHERA TENGAH",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 114,
+    "nama": "AYU WULAN SARI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN HALMAHERA TENGAH",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 115,
+    "nama": "FARHAN MAULANA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN HALMAHERA TIMUR",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 116,
+    "nama": "FRIDA OKTAFIANA ARIANTI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN HALMAHERA UTARA",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 117,
+    "nama": "HALA MUTIARA PUTRI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN HULU SUNGAI SELATAN",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 118,
+    "nama": "MUHAMAD RADITYA DANU CARITA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN HULU SUNGAI UTARA",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 119,
+    "nama": "AISYAH ANJANI PUTRI SIREGAR",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN HUMBANG HASUNDUTAN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 120,
+    "nama": "SARI INTAN LATIFAH BR. HUTAGAOL",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN INDRAGIRI HILIR",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 121,
+    "nama": "GHINA ANANDHIA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN INDRAGIRI HULU",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 122,
+    "nama": "ANINDITA AYU RAMADHANI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN INDRAMAYU",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 123,
+    "nama": "ROMARIO DESOUZA DANIEL MANGIWA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": 124,
+    "nama": "MUHAMMAD ANJA TAUFANI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": 125,
+    "nama": "ROSELINA PUTRI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN JAYAWIJAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": 126,
+    "nama": "SILVIE KRISTYA ARDEARISTA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN JEMBER",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 127,
+    "nama": "M. YANDRE FEBRIAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN JEMBRANA",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 128,
+    "nama": "NAUFAL MUHAMMAD IQBAL",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN JENEPONTO",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 129,
+    "nama": "HANUN NABILA AZIS",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN JEPARA",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": 130,
+    "nama": "ALFIAN SABASTYA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN KAIMANA",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": 131,
+    "nama": "RIFKA HUMAIRA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KAIMANA",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": 132,
+    "nama": "AMELIA RAHEL SIGALINGGING",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN KAMPAR",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 133,
+    "nama": "MAFITROH PANGASTUTI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KAPUAS",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 134,
+    "nama": "MEISCHA ZAHRA NUR ADHELIA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KAPUAS",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 135,
+    "nama": "FATHANIA RUSMA HAMIDAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KAPUAS",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 136,
+    "nama": "AGUS RIYANTO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KAPUAS HULU",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 137,
+    "nama": "I MADE YOGA ANDIKA PUTRA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KARANGASEM",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 138,
+    "nama": "FEZA RAFFA ARNANDA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KARAWANG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 139,
+    "nama": "PUTRI SEKAR AYU",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KARIMUN",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 140,
+    "nama": "CHAINUR AR RASYID NASUTION",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KARO",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 141,
+    "nama": "RIZKY RAHMADANI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KAUR",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": 142,
+    "nama": "ARLITA DWINA FIRLANA SARI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEDIRI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 143,
+    "nama": "RIZKY IR.SIHOMBING",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN KEEROM",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": 144,
+    "nama": "MUHAMMAD ABDUL AZIS HABIBI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPAHIANG",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": 145,
+    "nama": "RAFI RIZHA SYAKHARI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN ANAMBAS",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 146,
+    "nama": "IMMANUEL NICHOLAS FRANSEPTA SAMOSIR",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN ANAMBAS",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 147,
+    "nama": "FACHROL A. MOCHTI TANJUNG",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 148,
+    "nama": "MUHAMMAD YUSUF",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN MENTAWAI",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 149,
+    "nama": "RUTH MAHARANI AQUILIA HUTAGAOL",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN MERANTI",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 150,
+    "nama": "YULIA ARIZKA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN MERANTI",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 151,
+    "nama": "HAMDANI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN SANGIHE",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 152,
+    "nama": "KHUZAIMAH PUTRI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN SERIBU",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 153,
+    "nama": "AHMAD WAHYU FEBRIAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN SIAU TAGULANDANG BIARO",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 154,
+    "nama": "MUHAMMAD FARHAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN SIAU TAGULANDANG BIARO",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 155,
+    "nama": "ABDUROQY ALIMARWAN DUNDA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN SULA",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 156,
+    "nama": "MARSHELA ALYA KUSUMA WARDANI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN SULA",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 157,
+    "nama": "KRISTHYNE PANJAITAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KEPULAUAN TANIMBAR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 158,
+    "nama": "HALIM NUR JAMALUDDIN",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KLUNGKUNG",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 159,
+    "nama": "AMRISANY SEKTORA DAUD",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 160,
+    "nama": "LILIS DWIYANTI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KOLAKA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 161,
+    "nama": "ANNISA NURUL AZMI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KOLAKA UTARA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 162,
+    "nama": "ANGGRA DWI PRASETYA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN KONAWE",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 163,
+    "nama": "MUHAMMAD HAFIZ ALBAB",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KONAWE",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 164,
+    "nama": "LISDA OKTAVIANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KONAWE SELATAN",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 165,
+    "nama": "TIARA CHAIRUNNISA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KONAWE UTARA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 166,
+    "nama": "SALMA ANIDA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN KOTA BARU",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 167,
+    "nama": "I WAYAN DIVANDRA MAHARESANDYA SUKAJAYA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN KOTAWARINGIN BARAT",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 168,
+    "nama": "FIRMAN EMMANUEL DECLARANTIUS PARULIAN",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KOTAWARINGIN BARAT",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 169,
+    "nama": "GUSWANA ADVENTUS",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KUANTAN SINGINGI",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 170,
+    "nama": "LINDA MONICA SARI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KUDUS",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": 171,
+    "nama": "ANANDA GALUH INTAN PRASETYA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN KULON PROGO",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": 172,
+    "nama": "LOURNA MARISKA MAUBOY",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KUPANG",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 173,
+    "nama": "RIDWAN NURFIRMAN KUNCORO",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KUTAI BARAT",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 174,
+    "nama": "MARSHA RIFANY",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KUTAI KARTANEGARA",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 175,
+    "nama": "ARCHANGELA RENATA PATRICIA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KUTAI TIMUR",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 176,
+    "nama": "M. TORIQ AL HIJRAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN KUTAI TIMUR",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 177,
+    "nama": "GHASSANI FATHIN 'ADANI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LAMANDAU",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 178,
+    "nama": "RATIH RESTIANI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LAMPUNG BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 179,
+    "nama": "DEANIS CAMELIA ANUGRAH PUTRI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LAMPUNG SELATAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 180,
+    "nama": "RIZKI HARDINATA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LAMPUNG TENGAH",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 181,
+    "nama": "AZMI ZULFANI PUTRI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LAMPUNG TIMUR",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 182,
+    "nama": "NUR HANIFAH MIFTAHUL JANNAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LAMPUNG UTARA",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 183,
+    "nama": "HANY FEBRIANTY",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN LANDAK",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 184,
+    "nama": "ZAHRA SAFIRA HARYONO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LANDAK",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 185,
+    "nama": "RATNA JUWITA SALENSEHE",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN LANNY JAYA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": 186,
+    "nama": "YUSITA OCTINA BUDIYANTI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 187,
+    "nama": "IRGI FAHROZI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LEBAK",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 188,
+    "nama": "MIFTAH AULIA RAMADANTI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN LEBONG",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": 189,
+    "nama": "ADITYA WIDIYANTO NUGROHO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LEBONG",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": 190,
+    "nama": "ZAHRA KHAIRUNNISAK",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN LIMA PULUH KOTA",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 191,
+    "nama": "KHESYA BELINDA MELA ISAPUTRI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LINGGA",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 192,
+    "nama": "ABIGAIL BRENDA PADHANG PASORONG RANDA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LINGGA",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 193,
+    "nama": "ALIEFTA ZULVANSYAH BAHYPERDANA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LOMBOK BARAT",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 194,
+    "nama": "ANDIKA RAHMAT SAIFUDIN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LOMBOK TENGAH",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 195,
+    "nama": "RIDHO PANGESTU",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LOMBOK UTARA",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 196,
+    "nama": "RUMMANA LABISTA SYAHLA DEWI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LUMAJANG",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 197,
+    "nama": "AFIED AKHMAD",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN LUWU",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 198,
+    "nama": "MICHAEL ANGANDOWA BOEAYA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MADIUN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 199,
+    "nama": "BINTANG AFLAH ADHIKA RAMADHAN",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MAHAKAM ULU",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 200,
+    "nama": "RESKY AMALIA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MAJENE",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": 201,
+    "nama": "VENDREDY P. LUCASIO SIAHAAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MALAKA",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 202,
+    "nama": "INGGID UTAMI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MALAKA",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 203,
+    "nama": "SINDU DINAR BANGUN LEKSONO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": 204,
+    "nama": "RIZKA SABRINA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MALINAU",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": 205,
+    "nama": "MUHAMAD IZZAT MUTTAQIN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 206,
+    "nama": "MUH. DZULRIAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 207,
+    "nama": "FEBI YULITA TELUPERE",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 208,
+    "nama": "LUQMAN ABDUL WAHID MUHAMMAD",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 209,
+    "nama": "NINDY NUR SETIAWATI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MAMASA",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": 210,
+    "nama": "ASYIFA CHOIRUNNISA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MAMBERAMO RAYA",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": 211,
+    "nama": "ANASTASIA LAURNT",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MAMBERAMO RAYA",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": 212,
+    "nama": "RAFEL ILHAM FEBRIAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": 213,
+    "nama": "NURIN SALSABILA ISHAK",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MAMUJU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": 214,
+    "nama": "ANASTASYA KUNSITA DEWI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MAMUJU TENGAH",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": 215,
+    "nama": "SALMA NABILA ASRIZAL",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MANDAILING NATAL",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 216,
+    "nama": "ANITA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MANGGARAI TIMUR",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 217,
+    "nama": "IJAZATUL LABIBAH AL BARIZAH",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MANOKWARI",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": 218,
+    "nama": "PATRICK NOEL SIMAMORA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MANOKWARI",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": 219,
+    "nama": "NUR QALBI. MR",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MAROS",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 220,
+    "nama": "DAFA RIYANDIKA MAHENDRA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MELAWI",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 221,
+    "nama": "DYAH WIDYASTUTI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MELAWI",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 222,
+    "nama": "CLARA DIVA VERIANINTA LAGUM",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MEMPAWAH",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 223,
+    "nama": "AKMA BATRISYIA JAZIMA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MEMPAWAH",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 224,
+    "nama": "KARTIKA AMANDASARI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MERANGIN",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 225,
+    "nama": "NATASYA YUNITA PUTRI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MERANGIN",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 226,
+    "nama": "HANIF CHOIRUNNISA HIBATULLAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MIMIKA",
+    "provinsi": "PAPUA TENGAH"
+  },
+  {
+    "no": 227,
+    "nama": "ARYA SAMUEL MANDY",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MINAHASA TENGGARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 228,
+    "nama": "DINA YANTI NAINGGOLAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MINAHASA TENGGARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 229,
+    "nama": "DEWI SITORESMI CAHYANINGTYAS",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MOROWALI",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 230,
+    "nama": "HAMIDA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MUARA ENIM",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 231,
+    "nama": "SARIYYANTI HIKMAH PAULUS",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MUARA ENIM",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 232,
+    "nama": "BAGINDA SINAGA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 233,
+    "nama": "ADHILLAH AZIZ",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MUARO JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 234,
+    "nama": "TEGUH PRIHARYANTO",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MUKOMUKO",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": 235,
+    "nama": "SITI NURHASANA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN MUNA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 236,
+    "nama": "LUTHFIANI NUR AISYAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MURUNG RAYA",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 237,
+    "nama": "RISKI TOMMI MARDONI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MUSI BANYUASIN",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 238,
+    "nama": "IRSYAD FADHIL ASYRAF",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MUSI RAWAS UTARA",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 239,
+    "nama": "RENY DYAH KURNIAWATI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN MUSI RAWAS UTARA",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 240,
+    "nama": "HESEKIEL KRISTIADE RAJAGUKGUK",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN NATUNA",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 241,
+    "nama": "HANNY NUR RAHMA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN NATUNA",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 242,
+    "nama": "FAJAR HARDIANSYAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN NATUNA",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 243,
+    "nama": "HENDRIKUS MOYA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN NDUGA",
+    "provinsi": "PAPUA PEGUNUNGAN"
+  },
+  {
+    "no": 244,
+    "nama": "ABEDNEGO SILABAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN NIAS",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 245,
+    "nama": "ALVANDI SYUKUR RAHMAT ZEGA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN NIAS BARAT",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 246,
+    "nama": "MUHAMMAD 'ANIL 'AZIZ",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN NIAS SELATAN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 247,
+    "nama": "DEBBY CYNTHIA NINGRUM",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN NUNUKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": 248,
+    "nama": "RAHADIAN EKA BAGUS INDRA RINANGKU",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PACITAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 249,
+    "nama": "RESTI YULIANDA PUTRI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN PADANG PARIAMAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 250,
+    "nama": "FAT'HUL MUBIN GUFRON",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PANDEGLANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 251,
+    "nama": "MUKHAMAD DINDA MANIS YULIANTO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PANGANDARAN",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 252,
+    "nama": "GHULAM AN-NABALAH BANI SYAFII",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PANGANDARAN",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 253,
+    "nama": "MUHAMMAD AFNAN ALFIAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PANGKAJENE DAN KEPULAUAN",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 254,
+    "nama": "REZKY MAHARANI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN PANIAI",
+    "provinsi": "PAPUA TENGAH"
+  },
+  {
+    "no": 255,
+    "nama": "BAGAS SETYAWAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PARIGI MOUTONG",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 256,
+    "nama": "MUHAMMAD RAFI TASRIF",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PASAMAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 257,
+    "nama": "LANGKAH PRIYA KALOKA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PASANGKAYU",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": 258,
+    "nama": "ZIDAN AL AZIZI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PASER",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 259,
+    "nama": "ERLITA REDINA PUTRI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PASER",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 260,
+    "nama": "AFI DWI AMINURRAHMAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PELALAWAN",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 261,
+    "nama": "YAHYA ABDURROHMAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PENAJAM PASER UTARA",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 262,
+    "nama": "FITRISIA TARIDIPA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PENAJAM PASER UTARA",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 263,
+    "nama": "SYAKIRA RIZKY ANDINI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PENUKAL ABAB LEMATANG ILIR",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 264,
+    "nama": "DOLLY FERNANDO",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PENUKAL ABAB LEMATANG ILIR",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 265,
+    "nama": "SHABRINA ALFIRA NISA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PESAWARAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 266,
+    "nama": "USWATUN ALIFAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PESISIR BARAT",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 267,
+    "nama": "NABILA RANDRIKA PUTRI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PESISIR SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 268,
+    "nama": "NISYWA ZAHRA INDRASIWI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN PINRANG",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 269,
+    "nama": "LINDA RAHMAWATI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN POHUWATO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 270,
+    "nama": "FAQIH INDRA LESMANA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN POHUWATO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 271,
+    "nama": "FIRDA AZZAHROTUNNISA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN POHUWATO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 272,
+    "nama": "RADDIN AQILAH",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": 273,
+    "nama": "FATIMA AZZAHRO BINTI FATIHAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN POLEWALI MANDAR",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": 274,
+    "nama": "MUHAMMAD ROIHAN ABADI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN PONOROGO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 275,
+    "nama": "ELIANA MARDIYANINGTYAS",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN POSO",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 276,
+    "nama": "ARIKHZA SAPUTRI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN RAJA AMPAT",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": 277,
+    "nama": "M. KHUSEN ALI AL ANJABI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN RAJA AMPAT",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": 278,
+    "nama": "HASAN BAHTIAR HABIBI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN REJANG LEBONG",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": 279,
+    "nama": "VANESSA VIDIA MEYRISKA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN ROKAN HILIR",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 280,
+    "nama": "DHEVRI LEONARDO HUTAJULU",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN ROKAN HULU",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 281,
+    "nama": "PRATAMA RHOMDONI PUTRA ISMAIL",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN SABU RAIJUA",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 282,
+    "nama": "AHMAD DIAZ HAYKAL",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SABU RAIJUA",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 283,
+    "nama": "DIVA MAHARANI BASUKI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SAMBAS",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 284,
+    "nama": "BERTOLOMEUS LAKSANA JAYADRI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SANGGAU",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 285,
+    "nama": "AZKAS SALAM",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SAROLANGUN",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 286,
+    "nama": "MIRA OCTAVIA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SAROLANGUN",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 287,
+    "nama": "MUHAMMAD RAIHAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN SEKADAU",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 288,
+    "nama": "MELINA ZATI IZZAH",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN SELUMA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": 289,
+    "nama": "NISA WAHIDATUL HIDAYAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SELUMA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": 290,
+    "nama": "SHOFIATUL NAJMI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SERAM BAGIAN BARAT",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 291,
+    "nama": "I WAYAN RENDI PRATAMA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN SERAM BAGIAN TIMUR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 292,
+    "nama": "MAULANA KUSUMA RAMADHAN",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SERAM BAGIAN TIMUR",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 293,
+    "nama": "DHYMAS ADHYZA RAYHAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 294,
+    "nama": "ELGRESIA EGITA BR PERANGIN-ANGIN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SERDANG BEDAGAI",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 295,
+    "nama": "REGITA PRAMISWARI HADI MAHARANI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SERUYAN",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 296,
+    "nama": "SYAWALGI WAHYU IMANI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SERUYAN",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 297,
+    "nama": "HOTTON JONATAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN SIAK",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 298,
+    "nama": "RAIHAN AINURRAHIM FALAH",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN SIDENRENG RAPPANG",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 299,
+    "nama": "SHAWA ZAHMA AZ-ZAHARA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SIGI",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 300,
+    "nama": "MUHAMMAD FAUZAN AZIMA. A",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SIJUNJUNG",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 301,
+    "nama": "BINTANG PUTRI AULIA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SIKKA",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 302,
+    "nama": "ARSYKA LAILA OKTALIA SIREGAR",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SIMALUNGUN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 303,
+    "nama": "HADISHA SHAFA ANASYA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN SIMEULUE",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 304,
+    "nama": "AISHA MAHARANI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SINJAI",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 305,
+    "nama": "RAKANINDA INDAH KUSWARDANI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SINTANG",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 306,
+    "nama": "AFRI YADI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN SOLOK SELATAN",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 307,
+    "nama": "ANNA ADELIA DEWANTA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SOPPENG",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 308,
+    "nama": "NABILA WIDYA PUTRI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SORONG",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": 309,
+    "nama": "KENNY MARSELL VENEZIA RAIQHAN",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SORONG",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": 310,
+    "nama": "AILSA CANTIKA PUTRI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN SORONG SELATAN",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": 311,
+    "nama": "RAFAEL AGINTHA TARIGAN",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SORONG SELATAN",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": 312,
+    "nama": "AULIA ZAHRA RAHMAH",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 313,
+    "nama": "GHOLIDHO HERDA PRILASAKLY",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SUKABUMI",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 314,
+    "nama": "AMARA PUTRI SHABRINA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SUKAMARA",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 315,
+    "nama": "I MADE JOEL JAYA DILAGA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SUMBAWA",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 316,
+    "nama": "SUHENDRA WIDI PRAYOGA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SUMBAWA BARAT",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 317,
+    "nama": "NI PUTU AYU DENISHA KARTIKA SARASWATI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN SUMBAWA BARAT",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 318,
+    "nama": "ANI NGALEMISA SIMBOLON",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN SUPIORI",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": 319,
+    "nama": "ERIS GIRASTO",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TABALONG",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 320,
+    "nama": "NI PUTU ESTI UTAMI BARSUA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TABANAN",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 321,
+    "nama": "LAILATUL AMRI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN TANAH DATAR",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 322,
+    "nama": "ALIF FITRIATUL KHASANAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TANAH LAUT",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 323,
+    "nama": "EZRA ZIA IZDIHARA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TANA TIDUNG",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": 324,
+    "nama": "ARZUDA QOLBIN MULYA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TANGERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 325,
+    "nama": "KAYLA AZKA DHIYA TSABITHAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TANGERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 326,
+    "nama": "BAGAS ASHARI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TANGGAMUS",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 327,
+    "nama": "SETYA HADI NUGROHO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TANJUNG JABUNG BARAT",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 328,
+    "nama": "MAY ANNA LAURA NAINGGOLAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN TAPANULI SELATAN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 329,
+    "nama": "MITA FEBRIANTI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TAPANULI TENGAH",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 330,
+    "nama": "AFDATUL CHOFIDAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TAPIN",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 331,
+    "nama": "IKHLASUL A'MAL",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TASIKMALAYA",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 332,
+    "nama": "ILHAM KHALIQ",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN TEBO",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 333,
+    "nama": "NAUFAL IHSAN PUTRA MARLIN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TELUK BINTUNI",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": 334,
+    "nama": "SATRIO PUTYO DANENDRA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TELUK WONDAMA",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": 335,
+    "nama": "HANS TIKYNARO MANURUNG",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TIMOR TENGAH SELATAN",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 336,
+    "nama": "SISILIA AGUSTINA MANALU",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TOBA",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 337,
+    "nama": "ERIKA AZIZAH KHOIRUNNISA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TOLI-TOLI",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 338,
+    "nama": "LAILA FAKARISMA AGUSTIN",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TOLI-TOLI",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 339,
+    "nama": "ANDI ARDIANSYAH NASIR",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TORAJA UTARA",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 340,
+    "nama": "DWI INTAN SULISTIANA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN TRENGGALEK",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 341,
+    "nama": "SELI DELIMA SARI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN TULANGBAWANG",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 342,
+    "nama": "PUTRI MOELINDA FITRIANI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN TULUNGAGUNG",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 343,
+    "nama": "GITA KIRANA APRILLIA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN WAJO",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 344,
+    "nama": "SUSI AMBARWULAN",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KABUPATEN WAROPEN",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": 345,
+    "nama": "PATRICK FARKHANUDIN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN WAROPEN",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": 346,
+    "nama": "MIFROTUN AINI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN WAY KANAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 347,
+    "nama": "ATANASIUS ALFANDI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KABUPATEN WONOSOBO",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": 348,
+    "nama": "NUR SHIFA DANI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 349,
+    "nama": "SANDRA FATIMAH ICHWANI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 350,
+    "nama": "IZUMI CITRA AMELIA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA ADM. JAKARTA BARAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 351,
+    "nama": "AHMAD NADIFA AL AGUNG",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA ADM. JAKARTA PUSAT",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 352,
+    "nama": "CECILIA PUTRI DIANTI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 353,
+    "nama": "CALIVI KEZIA LAKSMANA PUTRI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA ADM. JAKARTA SELATAN",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 354,
+    "nama": "GALANG BAYU DAMAR YUDHISTIRA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 355,
+    "nama": "FARDHI DZAKWAN FAUZAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA ADM. JAKARTA TIMUR",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 356,
+    "nama": "YULI ARINDAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 357,
+    "nama": "MOHAMMAD ANNAM",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA ADM. JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 358,
+    "nama": "NI MADE WIDYA PARAMITA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KOTA AMBON",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 359,
+    "nama": "NITO SUDINATA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KOTA AMBON",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 360,
+    "nama": "ZULFAA DWI OKTAVIAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA AMBON",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 361,
+    "nama": "AWIKA YULIATI ZUKHRUFAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BALIKPAPAN",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 362,
+    "nama": "SYOFMARLIANISYAH PUTRI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BANDA ACEH",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 363,
+    "nama": "YULIA NAWANG WULANDARI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BANDAR LAMPUNG",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 364,
+    "nama": "ELSA SABILA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BANDUNG",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 365,
+    "nama": "RAIHAN RAHMANDA JUNIANTO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BANJAR BARU",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 366,
+    "nama": "ANISA NUR OKTAVIANI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BANJARMASIN",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 367,
+    "nama": "NASYWA NUR AMALIA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BANJARMASIN",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 368,
+    "nama": "PRETTY MELATI PARDEDE",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BATAM",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 369,
+    "nama": "NI KOMANG AYU MITA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BAUBAU",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 370,
+    "nama": "AGHNIA AMALIA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": 371,
+    "nama": "DINDA ALFIRA ILMAYANTI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BIMA",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 372,
+    "nama": "NI MADE WULAN PUSPITA DEWI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BIMA",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 373,
+    "nama": "UMAR HADI PRANOTO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA BONTANG",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 374,
+    "nama": "SURYA MARULI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA CILEGON",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 375,
+    "nama": "ZENA AZZAHRA DZUNNURAIN",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA CILEGON",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 376,
+    "nama": "BRIGITTA AURELIA PUTRI SUHENDI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA DENPASAR",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 377,
+    "nama": "DARADINANTI AULIA REVANADILLA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 378,
+    "nama": "SHAVIRA RACHMAWATI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 379,
+    "nama": "ELYSIA PUTRI LINDA TRIANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 380,
+    "nama": "VHANIA MUTIARA INDAH SINAGA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KOTA JAYAPURA",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": 381,
+    "nama": "MARETTA TIARINDA WIDYANTARI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA JAYAPURA",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": 382,
+    "nama": "PUTRI SAFIRA SHALSABILA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA JAYAPURA",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": 383,
+    "nama": "LINDA PUSPITA SARI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA KENDARI",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 384,
+    "nama": "ROSALIA KRISTANTY MANURUNG",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA KUPANG",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 385,
+    "nama": "RISSA ERVIANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA LUBUKLINGGAU",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 386,
+    "nama": "SALSABILA RAHADATUL AISY",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA MAKASSAR",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 387,
+    "nama": "ARON ZYODE KAXANCA HASIBUAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA MANADO",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 388,
+    "nama": "ADWA SAWALIAH",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KOTA MATARAM",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 389,
+    "nama": "PRATIWI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA MEDAN",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 390,
+    "nama": "GILANG ABDUL JABBAR",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA METRO",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 391,
+    "nama": "PUTRI AYSYAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PADANG",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 392,
+    "nama": "KEN REGAR RIDLO TAFSIROH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PAGAR ALAM",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 393,
+    "nama": "AMALIA ISTI WIDIYASARI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PAGAR ALAM",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 394,
+    "nama": "CINDY SEPTIA TRIONITA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PALANGKA RAYA",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 395,
+    "nama": "FERLINDA NOVIA ARDHITASARI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PALEMBANG",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 396,
+    "nama": "R. RR APRIANI SOFIANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PALOPO",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 397,
+    "nama": "BINTANA TAJMALA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PALU",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 398,
+    "nama": "SORAYA AFKARINA MUMTAZAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PANGKAL PINANG",
+    "provinsi": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "no": 399,
+    "nama": "SHAFIRA HUSNA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PANGKAL PINANG",
+    "provinsi": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "no": 400,
+    "nama": "FADIAH FARADINAH NASIR",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PAREPARE",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 401,
+    "nama": "ALIFIAN WAHYU PRAKHOSO",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PEKALONGAN",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": 402,
+    "nama": "SOFI ZAMZANAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PEKANBARU",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 403,
+    "nama": "AULIA HAYUNINGTYAS",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA PONTIANAK",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 404,
+    "nama": "NUGRAHA WAHYU PUTRA SUPIADI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KOTA SAMARINDA",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 405,
+    "nama": "ANGGY DISTRIA MANIK",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA SAMARINDA",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 406,
+    "nama": "CELVIN KEYLA ALIDRA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA SEMARANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": 407,
+    "nama": "ARIZQA SHAFA SALSABILA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA SERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 408,
+    "nama": "I KETUT ADI CHANDRA WIGUNA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA SORONG",
+    "provinsi": "PAPUA BARAT DAYA"
+  },
+  {
+    "no": 409,
+    "nama": "RIZQE PUTRI ROSALIA",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KOTA SUBULUSSALAM",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 410,
+    "nama": "FARID AKBAR ARIFANDI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA SUBULUSSALAM",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 411,
+    "nama": "KRISNA INDERA WASPADA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA SURABAYA",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 412,
+    "nama": "NABILA FATMA PUTRI YUNARDI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA TANGERANG",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 413,
+    "nama": "RULLY FIRMANSYAH SURYO ANDRIYANTO",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA TANGERANG SELATAN",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 414,
+    "nama": "WIMBI UELSAN GURUSINGA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA TANJUNG PINANG",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 415,
+    "nama": "AULIA AZZAHRA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": 416,
+    "nama": "RENI PRATAMAWATI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA TARAKAN",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": 417,
+    "nama": "AIFA HAMIDAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA TERNATE",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 418,
+    "nama": "SYARIFA SALSABILA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA TERNATE",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 419,
+    "nama": "SINDY ALOIYA BR MANULLANG",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS KOTA TIDORE KEPULAUAN",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 420,
+    "nama": "ALWAN NABIL HANIF",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS KOTA TIDORE KEPULAUAN",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 421,
+    "nama": "ADIEN ILMA MUTAFAILA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS KOTA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": 422,
+    "nama": "RISKA FAZILLA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI ACEH",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 423,
+    "nama": "CLARISSA AZARINE",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI ACEH",
+    "provinsi": "ACEH"
+  },
+  {
+    "no": 424,
+    "nama": "DIVA PUTRA PRATAMA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI BALI",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 425,
+    "nama": "VILANATA TESALONIKA LANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI BALI",
+    "provinsi": "BALI"
+  },
+  {
+    "no": 426,
+    "nama": "KRISTIAN ERNALA WICAKSONO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI BANTEN",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 427,
+    "nama": "MUHAMMAD FAJAR SIDDIQ",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI BANTEN",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": 428,
+    "nama": "HASNA ARIFAH NUR FATIH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": 429,
+    "nama": "MUHAMAD IQBAL PUTRA PRATAMA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI DAERAH ISTIMEWA YOGYAKARTA",
+    "provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "no": 430,
+    "nama": "MAYLINA SAFITRI",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS PROVINSI DKI JAKARTA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 431,
+    "nama": "NASYA ZAHIRA PUTRI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI DKI JAKARTA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 432,
+    "nama": "CLAUDIA JANEFER ROMORA SITANGGANG",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI DKI JAKARTA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": 433,
+    "nama": "FITRIA NUR RAHMAWATI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": 434,
+    "nama": "YANUAR NURUL HILAL",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI JAMBI",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": 435,
+    "nama": "ADINDA SHAKILLA PUTERI MUSLIMAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI JAWA BARAT",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 436,
+    "nama": "ALMIRA UTAMI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI JAWA BARAT",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 437,
+    "nama": "KADEK AGUS DWI CANDRA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI JAWA BARAT",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 438,
+    "nama": "KINTAN AYU RIZQI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI JAWA BARAT",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": 439,
+    "nama": "ISNATUL MU'ANISSAH",
+    "jabatan": "ASISTEN STATISTISI TERAMPIL",
+    "unitKerja": "BPS PROVINSI JAWA TENGAH",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": 440,
+    "nama": "SUKMA AYU KUSUMAWARDANI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI JAWA TENGAH",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": 441,
+    "nama": "AISYAH DEVYTA MAHARANI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI JAWA TIMUR",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 442,
+    "nama": "ELVIKA NANDA NURDIANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI JAWA TIMUR",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 443,
+    "nama": "MOHAMMAD ILHAM MAHFUD",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI JAWA TIMUR",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": 444,
+    "nama": "AZHARI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI KALIMANTAN BARAT",
+    "provinsi": "KALIMANTAN BARAT"
+  },
+  {
+    "no": 445,
+    "nama": "ELISA NUR RAHMAWATI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI KALIMANTAN SELATAN",
+    "provinsi": "KALIMANTAN SELATAN"
+  },
+  {
+    "no": 446,
+    "nama": "PEMBAYUN OTSU INDIANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI KALIMANTAN TENGAH",
+    "provinsi": "KALIMANTAN TENGAH"
+  },
+  {
+    "no": 447,
+    "nama": "CHARINA HURUL FATHONAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI KALIMANTAN TIMUR",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 448,
+    "nama": "RICKY ARDIYANSAH SAPUTRA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI KALIMANTAN TIMUR",
+    "provinsi": "KALIMANTAN TIMUR"
+  },
+  {
+    "no": 449,
+    "nama": "SONYA ANANTA PANJAITAN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI KALIMANTAN UTARA",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": 450,
+    "nama": "FARAH FADHILAH HUSAIN",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI KALIMANTAN UTARA",
+    "provinsi": "KALIMANTAN UTARA"
+  },
+  {
+    "no": 451,
+    "nama": "SABILLA HAMDA SYAHPUTRI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI KEPULAUAN BANGKA BELITUNG",
+    "provinsi": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "no": 452,
+    "nama": "DANARDANA MUHAMMAD",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI KEPULAUAN BANGKA BELITUNG",
+    "provinsi": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "no": 453,
+    "nama": "ADRIAN KESAR PRATAMA LUBIS",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI KEPULAUAN RIAU",
+    "provinsi": "KEPULAUAN RIAU"
+  },
+  {
+    "no": 454,
+    "nama": "BIMO ADE BUDIMAN FIKRI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI LAMPUNG",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": 455,
+    "nama": "ACHMAD FIOREN JATI GOLO",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI MALUKU",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": 456,
+    "nama": "ELSA OKTAVIA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI MALUKU UTARA",
+    "provinsi": "MALUKU UTARA"
+  },
+  {
+    "no": 457,
+    "nama": "AZZAHRA RAMADHANI WIDYANTI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI NUSA TENGGARA BARAT",
+    "provinsi": "NUSA TENGGARA BARAT"
+  },
+  {
+    "no": 458,
+    "nama": "EMILY AZIZAIDA BUDIKUSUMA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI NUSA TENGGARA TIMUR",
+    "provinsi": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "no": 459,
+    "nama": "VENNY SEPTIA HARTONO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI PAPUA",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": 460,
+    "nama": "CHELSEA AZISHIAH VICTORY",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI PAPUA BARAT",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": 461,
+    "nama": "ASRUL RAZI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI PAPUA BARAT",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": 462,
+    "nama": "R.FARAS ROIHAN ARMEL",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI RIAU",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": 463,
+    "nama": "IZHAR AMAL PRAMUDITYA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI SULAWESI BARAT",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": 464,
+    "nama": "MUHAMMAD HANIF PERMANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI SULAWESI BARAT",
+    "provinsi": "SULAWESI BARAT"
+  },
+  {
+    "no": 465,
+    "nama": "RIA DINI HANIFAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI SULAWESI SELATAN",
+    "provinsi": "SULAWESI SELATAN"
+  },
+  {
+    "no": 466,
+    "nama": "JIHAN MAISAROH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI SULAWESI TENGAH",
+    "provinsi": "SULAWESI TENGAH"
+  },
+  {
+    "no": 467,
+    "nama": "SRI NURMALA NINGSIH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI SULAWESI TENGGARA",
+    "provinsi": "SULAWESI TENGGARA"
+  },
+  {
+    "no": 468,
+    "nama": "MUHAMMAD RAIHAN ABHIRAMA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI SULAWESI UTARA",
+    "provinsi": "SULAWESI UTARA"
+  },
+  {
+    "no": 469,
+    "nama": "ANUGERAH SURYA ATMAJA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI SUMATERA BARAT",
+    "provinsi": "SUMATERA BARAT"
+  },
+  {
+    "no": 470,
+    "nama": "IBNU GATA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI SUMATERA SELATAN",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 471,
+    "nama": "NAILU ROKHMAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI SUMATERA SELATAN",
+    "provinsi": "SUMATERA SELATAN"
+  },
+  {
+    "no": 472,
+    "nama": "BOB LOUIS MANURUNG",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "BPS PROVINSI SUMATERA UTARA",
+    "provinsi": "SUMATERA UTARA"
+  },
+  {
+    "no": 473,
+    "nama": "LINIERTI AJENG AULIA PUTRI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT ANALISIS DAN PENGEMBANGAN STATISTIK",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 474,
+    "nama": "AHMAD ZEIN HADDAD",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT DISEMINASI STATISTIK",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 475,
+    "nama": "MUHAMMAD DIVA AMRULLAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT DISEMINASI STATISTIK",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 476,
+    "nama": "NI PUTU LIDYA PRAMESTY",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT NERACA PENGELUARAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 477,
+    "nama": "ROHIMMA ARISANTI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT NERACA PENGELUARAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 478,
+    "nama": "GUNTUR FAIZAL MAJID",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT NERACA PRODUKSI",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 479,
+    "nama": "VELLICIA LAYLA QAMIRAT SUBEKTI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT NERACA PRODUKSI",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 480,
+    "nama": "MUHAMMAD RESTU ILAHI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT PENGEMBANGAN METODOLOGI SENSUS DAN SURVEI",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 481,
+    "nama": "MUHAMMAD ZABBAR FALIHIN",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT PENGEMBANGAN METODOLOGI SENSUS DAN SURVEI",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 482,
+    "nama": "YULIUS RESTU KRISNA ADI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT PENGEMBANGAN METODOLOGI SENSUS DAN SURVEI",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 483,
+    "nama": "DUTATAMA ROSEWIKA TAUFIQ HADIHARDAYA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT SISTEM INFORMASI STATISTIK",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 484,
+    "nama": "FAUZIAH FILDA MUFARRIHATI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT SISTEM INFORMASI STATISTIK",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 485,
+    "nama": "I BAGUS PUTU SWARDANASUTA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT SISTEM INFORMASI STATISTIK",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 486,
+    "nama": "NATALIE MERRY ANGELINA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT SISTEM INFORMASI STATISTIK",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 487,
+    "nama": "OKTAFIANTO ASSET PERDANA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT SISTEM INFORMASI STATISTIK",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 488,
+    "nama": "RECHTIANA PUTRI ARINI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT SISTEM INFORMASI STATISTIK",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 489,
+    "nama": "SAMUEL MARUBA MANIK",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT SISTEM INFORMASI STATISTIK",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 490,
+    "nama": "SULTAN HADI PRABOWO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT SISTEM INFORMASI STATISTIK",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 491,
+    "nama": "SANIYYAH SRI NURHAYATI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK DISTRIBUSI",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 492,
+    "nama": "FAHRI AZIS SIBAGARIANG",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK DISTRIBUSI",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 493,
+    "nama": "NUR AISYA AURELLIA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK DISTRIBUSI",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 494,
+    "nama": "ATHA JULI RIEKAWATY",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK HARGA",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 495,
+    "nama": "BAFINATUL UMAMI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK HARGA",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 496,
+    "nama": "YUNIAR YUDHI TIRANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK INDUSTRI",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 497,
+    "nama": "ADILLA KHOIRUNNISA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KEPENDUDUKAN DAN KETENAGAKERJAAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 498,
+    "nama": "AMELIA DYAH SAFITRI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KEPENDUDUKAN DAN KETENAGAKERJAAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 499,
+    "nama": "FATIMAH RAHMASARI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KEPENDUDUKAN DAN KETENAGAKERJAAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 500,
+    "nama": "GRAHANI SWITAMY BR MANIK",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KESEJAHTERAAN RAKYAT",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 501,
+    "nama": "LISMA DINAYANTI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KESEJAHTERAAN RAKYAT",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 502,
+    "nama": "ALDILLA PRAMUDITA CAESAR",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KETAHANAN SOSIAL",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 503,
+    "nama": "PUTRI FEBIYANTI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KETAHANAN SOSIAL",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 504,
+    "nama": "ANNISA RAHMA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KEUANGAN, TEKNOLOGI INFORMASI, PARIWISATA",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 505,
+    "nama": "MUHAMMAD SULTAN HAFIZ",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KEUANGAN, TEKNOLOGI INFORMASI, PARIWISATA",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 506,
+    "nama": "ANNISA MUTHI ZAJIDAH",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KEUANGAN, TEKNOLOGI INFORMASI, PARIWISATA",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 507,
+    "nama": "NISRINA SEKAR HARUM",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KEUANGAN, TEKNOLOGI INFORMASI, PARIWISATA",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 508,
+    "nama": "RIA SEPTIANA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK KEUANGAN, TEKNOLOGI INFORMASI, PARIWISATA",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 509,
+    "nama": "MUHAMMAD ILZAM FALAHUDDIN",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK PETERNAKAN, PERIKANAN, DAN KEHUTANAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 510,
+    "nama": "ANGGA PRAYOGA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK TANAMAN PANGAN, HORTIKULTURA, PERKEBUNAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 511,
+    "nama": "RIKA LUSIANA SIMBOLON",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "DIREKTORAT STATISTIK TANAMAN PANGAN, HORTIKULTURA, PERKEBUNAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 512,
+    "nama": "DANANG WISNU PRABOWO",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "POLITEKNIK STATISTIKA STIS",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 513,
+    "nama": "HIMAWAN WAHID IKHWANSYAH",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "POLITEKNIK STATISTIKA STIS",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 514,
+    "nama": "ANANG KURNIA HIDAYAT",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "PUSAT PENDIDIKAN DAN PELATIHAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 515,
+    "nama": "FALANA ROFAKO HAKAM",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "PUSAT PENDIDIKAN DAN PELATIHAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 516,
+    "nama": "GAVIN ATHA WISESA",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "PUSAT PENDIDIKAN DAN PELATIHAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 517,
+    "nama": "MUHAMMAD NUR ALFIAN SYARIF",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "PUSAT PENDIDIKAN DAN PELATIHAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 518,
+    "nama": "ROHMAD ALI FATUR RIZKI",
+    "jabatan": "PRANATA KOMPUTER AHLI PERTAMA",
+    "unitKerja": "PUSAT PENDIDIKAN DAN PELATIHAN",
+    "provinsi": "PUSAT"
+  },
+  {
+    "no": 519,
+    "nama": "GINA AMALIA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "KEMENTERIAN KOPERASI",
+    "provinsi": "K/L/P"
+  },
+  {
+    "no": 520,
+    "nama": "RANDY DAFFA ADITYA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "KEMENTERIAN KOPERASI",
+    "provinsi": "K/L/P"
+  },
+  {
+    "no": 521,
+    "nama": "TYAS KURNIA WIJAYANTI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "KEMENTERIAN TRANSMIGRASI",
+    "provinsi": "K/L/P"
+  },
+  {
+    "no": 522,
+    "nama": "AZMIRA CANDRA VIDIASARI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "KEMENTERIAN TRANSMIGRASI",
+    "provinsi": "K/L/P"
+  },
+  {
+    "no": 523,
+    "nama": "FAUZAN BAYU HERA SUDIANTO",
+    "jabatan": "PENELAAH TEKNIS KEBIJAKAN",
+    "unitKerja": "KEMENTERIAN KEUANGAN",
+    "provinsi": "K/L/P"
+  },
+  {
+    "no": 524,
+    "nama": "MUHAMMAD RIZQI ABDULQUDDUS",
+    "jabatan": "PENELAAH TEKNIS KEBIJAKAN",
+    "unitKerja": "KEMENTERIAN KEUANGAN",
+    "provinsi": "K/L/P"
+  },
+  {
+    "no": 525,
+    "nama": "RISKA MEYLIANA SARI",
+    "jabatan": "PENELAAH TEKNIS KEBIJAKAN",
+    "unitKerja": "KEMENTERIAN KEUANGAN",
+    "provinsi": "K/L/P"
+  },
+  {
+    "no": 526,
+    "nama": "IMELLA MENDITA SANDI",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "KEMENTERIAN EKONOMI KREATIF/BADAN EKONOMI KREATIF",
+    "provinsi": "K/L/P"
+  },
+  {
+    "no": 527,
+    "nama": "EKSIS AULIYA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "KEMENTERIAN EKONOMI KREATIF/BADAN EKONOMI KREATIF",
+    "provinsi": "K/L/P"
+  },
+  {
+    "no": 528,
+    "nama": "ERWIN AGUNG NURROHMAT",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "KEMENTERIAN EKONOMI KREATIF/BADAN EKONOMI KREATIF",
+    "provinsi": "K/L/P"
+  },
+  {
+    "no": 529,
+    "nama": "NADAA ZHAFARINA",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "KEMENTERIAN KETENAGAKERJAAN",
+    "provinsi": "K/L/P"
+  },
+  {
+    "no": 530,
+    "nama": "MUHAMMAD",
+    "jabatan": "STATISTISI AHLI PERTAMA",
+    "unitKerja": "KEMENTERIAN KETENAGAKERJAAN",
+    "provinsi": "K/L/P"
+  }
+]

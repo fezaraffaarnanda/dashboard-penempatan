@@ -252,7 +252,7 @@ export default function Home() {
             </form>
 
             <div className="login-footer">
-              <p>Akses terbatas untuk alumni STIS</p>
+              <p>yang STIS-STIS aja</p>
             </div>
           </div>
         </div>

@@ -576,7 +576,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>Dashboard Penempatan STIS </p>
+        <p>Dashboard Penempatan STIS | Made by @pezet</p>
       </footer>
 
       {/* Modal */}

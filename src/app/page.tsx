@@ -109,11 +109,51 @@ export default function Home() {
     return stats;
   }, []);
 
-  const sortedProvinces = useMemo(() => {
-    return Object.keys(provinceStats)
-      .sort((a, b) => provinceStats[b].length - provinceStats[a].length)
-      .filter((p) => p.toLowerCase().includes(searchTerm.toLowerCase()));
+  // Search results - can be provinces or people
+  const searchResults = useMemo(() => {
+    const term = searchTerm.toLowerCase().trim();
+
+    if (!term) {
+      // No search term - show all provinces sorted by count
+      return {
+        type: "provinces" as const,
+        provinces: Object.keys(provinceStats).sort(
+          (a, b) => provinceStats[b].length - provinceStats[a].length
+        ),
+        people: [] as Penempatan[],
+      };
+    }
+
+    // Search in province names
+    const matchingProvinces = Object.keys(provinceStats)
+      .filter((p) => p.toLowerCase().includes(term))
+      .sort((a, b) => provinceStats[b].length - provinceStats[a].length);
+
+    // Search in people names
+    const matchingPeople = (penempatanData as Penempatan[])
+      .filter((person) => person.nama.toLowerCase().includes(term))
+      .slice(0, 50); // Limit to 50 results
+
+    // Determine what to show based on results
+    if (matchingProvinces.length > 0 && matchingPeople.length === 0) {
+      return {
+        type: "provinces" as const,
+        provinces: matchingProvinces,
+        people: [],
+      };
+    } else if (matchingProvinces.length === 0 && matchingPeople.length > 0) {
+      return { type: "people" as const, provinces: [], people: matchingPeople };
+    } else {
+      // Both have results - show both
+      return {
+        type: "mixed" as const,
+        provinces: matchingProvinces,
+        people: matchingPeople,
+      };
+    }
   }, [provinceStats, searchTerm]);
+
+  const sortedProvinces = searchResults.provinces;
 
   const totalLulusan = (penempatanData as Penempatan[]).length;
   const totalProvinsi = Object.keys(provinceStats).length;
@@ -178,7 +218,7 @@ export default function Home() {
                 />
               </div>
               <h1>Dashboard Penempatan</h1>
-              <p>Polstat STIS D4 63 dan D3 64</p>
+              <p>Polstat STIS D4 63 dan D3 64 Tahun 2026</p>
             </div>
 
             <form onSubmit={handleLogin} className="login-form">
@@ -303,7 +343,7 @@ export default function Home() {
             </svg>
             <input
               type="text"
-              placeholder="Cari provinsi..."
+              placeholder="Cari provinsi atau nama..."
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
             />
@@ -313,12 +353,25 @@ export default function Home() {
             {/* Sticky selected province */}
             {selectedProvince && sortedProvinces.includes(selectedProvince) && (
               <div className="sticky-province">
+                <button
+                  className="sticky-close-btn"
+                  onClick={() => setSelectedProvince(null)}
+                  title="Tutup"
+                >
+                  <svg
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                  >
+                    <path d="M18 6L6 18M6 6l12 12" />
+                  </svg>
+                </button>
                 <div
                   ref={(el) => {
                     provinceRefs.current[selectedProvince] = el;
                   }}
                   className="province-item active"
-                  onClick={() => setSelectedProvince(null)}
                 >
                   <div className="province-info">
                     <span className="province-name">{selectedProvince}</span>
@@ -357,29 +410,108 @@ export default function Home() {
               </div>
             )}
 
-            {/* Scrollable province list */}
+            {/* Scrollable list */}
             <div className="province-list">
-              {sortedProvinces
-                .filter((province) => province !== selectedProvince)
-                .map((province) => (
-                  <div
-                    key={province}
-                    ref={(el) => {
-                      provinceRefs.current[province] = el;
-                    }}
-                    className={`province-item ${
-                      hoveredProvince === province ? "hovered" : ""
-                    }`}
-                    onClick={() => setSelectedProvince(province)}
-                  >
-                    <div className="province-info">
-                      <span className="province-name">{province}</span>
-                      <span className="province-count">
-                        {provinceStats[province].length}
-                      </span>
+              {/* Show search type indicator when searching */}
+              {searchTerm && (
+                <div className="search-results-info">
+                  {searchResults.type === "mixed" && (
+                    <span>
+                      Menampilkan {searchResults.provinces.length} provinsi &{" "}
+                      {searchResults.people.length} orang
+                    </span>
+                  )}
+                  {searchResults.type === "provinces" && (
+                    <span>
+                      Ditemukan {searchResults.provinces.length} provinsi
+                    </span>
+                  )}
+                  {searchResults.type === "people" && (
+                    <span>Ditemukan {searchResults.people.length} orang</span>
+                  )}
+                </div>
+              )}
+
+              {/* Province results */}
+              {searchResults.provinces.length > 0 && (
+                <>
+                  {searchTerm && searchResults.type === "mixed" && (
+                    <div className="search-section-title">Provinsi</div>
+                  )}
+                  {sortedProvinces
+                    .filter((province) => province !== selectedProvince)
+                    .map((province) => (
+                      <div
+                        key={province}
+                        ref={(el) => {
+                          provinceRefs.current[province] = el;
+                        }}
+                        className={`province-item ${
+                          hoveredProvince === province ? "hovered" : ""
+                        }`}
+                        onClick={() => setSelectedProvince(province)}
+                      >
+                        <div className="province-info">
+                          <span className="province-name">{province}</span>
+                          <span className="province-count">
+                            {provinceStats[province].length}
+                          </span>
+                        </div>
+                      </div>
+                    ))}
+                </>
+              )}
+
+              {/* People results */}
+              {searchResults.people.length > 0 && (
+                <>
+                  {searchResults.type === "mixed" && (
+                    <div className="search-section-title">Nama Lulusan</div>
+                  )}
+                  {searchResults.people.map((person, idx) => (
+                    <div
+                      key={`person-${idx}`}
+                      className="person-search-item"
+                      onClick={() => {
+                        setSelectedProvince(person.provinsi);
+                        setSearchTerm("");
+                      }}
+                    >
+                      <div className="person-search-name">{person.nama}</div>
+                      <div className="person-search-details">
+                        <span className="person-search-jabatan">
+                          {person.jabatan}
+                        </span>
+                        <span className="person-search-province">
+                          {person.provinsi}
+                        </span>
+                      </div>
+                      <div className="person-search-unit">
+                        {person.unitKerja}
+                      </div>
                     </div>
+                  ))}
+                </>
+              )}
+
+              {/* No results */}
+              {searchTerm &&
+                searchResults.provinces.length === 0 &&
+                searchResults.people.length === 0 && (
+                  <div className="no-results">
+                    <svg
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="2"
+                    >
+                      <circle cx="11" cy="11" r="8" />
+                      <path d="m21 21-4.35-4.35" />
+                      <path d="M8 8l6 6M14 8l-6 6" />
+                    </svg>
+                    <p>Tidak ditemukan hasil untuk "{searchTerm}"</p>
                   </div>
-                ))}
+                )}
             </div>
           </div>
         </aside>

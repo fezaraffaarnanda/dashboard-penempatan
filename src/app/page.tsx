@@ -318,7 +318,7 @@ export default function Home() {
             </div>
             <div className="title-section">
               <h1>Dashboard Penempatan Lulusan</h1>
-              <p>Polstat STIS D4 63 dan D3 64</p>
+              <p>Polstat STIS D4 63 dan D3 64 2026</p>
             </div>
           </div>
           <div className="stats-header">

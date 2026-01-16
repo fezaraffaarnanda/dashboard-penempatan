@@ -139,10 +139,14 @@ export default function Home() {
       return {
         type: "provinces" as const,
         provinces: matchingProvinces,
-        people: [],
+        people: [] as Penempatan[],
       };
     } else if (matchingProvinces.length === 0 && matchingPeople.length > 0) {
-      return { type: "people" as const, provinces: [], people: matchingPeople };
+      return {
+        type: "people" as const,
+        provinces: [] as string[],
+        people: matchingPeople,
+      };
     } else {
       // Both have results - show both
       return {
